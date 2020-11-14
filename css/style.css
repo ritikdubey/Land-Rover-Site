@@ -1,0 +1,146 @@
+body{
+   background-color: black;
+  line-height: 45px;
+
+}
+
+.main-heading{
+  color: #ade498;
+  text-align: center;
+  font-size: 5rem;
+  font-family: 'Merriweather', serif;
+  margin-bottom: 4rem;
+}
+
+.head-image{
+  display: block;
+  height: 20vh;
+  width: 20vw;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.tagline{
+  color: #cae198;
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2rem;
+  margin-top: 0.5rem;
+}
+
+.history-head{
+  text-align: left;
+  color: #ade498;
+  margin-top: 15vh;
+  margin-left: 7vw;
+  font-size: 3rem;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.history{
+  font-family: 'Ubuntu', sans-serif;
+  color: white;
+  margin-left: 7vw;
+  font-size: 1.5rem;
+  margin-right: 10vw;
+  text-align: justify;
+}
+
+.carhead{
+  text-align: left;
+  color: #ade498;
+  margin-top: 15vh;
+  margin-left: 7vw;
+  font-size: 3rem;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.car-name{
+  text-align: left;
+  font-size: 2rem;
+  color:  #ade498;
+  font-family: 'Ubuntu', sans-serif;
+  margin-left: 7vw;
+}
+
+.car-img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 60vh;
+  width: 60vw;
+  border-radius: 7%;
+  margin-top: 2rem;
+  margin-bottom: 4rem;
+}
+
+.car-desc{
+  font-family: 'Ubuntu', sans-serif;
+  color: white;
+  margin-left: 9vw;
+  font-size: 1.5rem;
+  margin-right: 12vw;
+  text-align: justify;
+  margin-bottom: 5rem;
+}
+
+
+.button{
+  font-family: 'Ubuntu', sans-serif;
+  display: block;
+  font-size: 1.5rem;
+  text-align: right;
+  float: right;
+  margin-bottom: 10px;
+  background-color: black;
+  border-color: black;
+}
+
+a.back-to-top-link{
+  color: #81b29a;
+  text-decoration:none;
+}
+
+a.back-to-top-link:hover{
+  color: #f8bd7f;
+}
+/* .back-to-top-link {
+  display: block;
+  text-align: right;
+  float: right;
+  color: white;
+  font-size: 3rem;
+  text-decoration: none;
+  position: relative;
+  margin-bottom: 19px;
+} */
+
+/* a.back-to-top-link:hover{
+  color: red;
+ } */
+
+
+.footer{
+  display: inline-block;
+  width: 100%;
+  background-color: #ffe5d9;
+  left: 0;
+  bottom: 0;
+  /* position: fixed; */
+  height: 2.4rem;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 0;
+  /* margin-bottom: 0; */
+}
+
+
+i{
+  margin-left: 25px;
+  margin-right: 25px;
+  color: #023e8a;
+}
+
+i:hover{
+  color: #ff9770;
+}
